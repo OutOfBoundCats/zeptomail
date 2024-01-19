@@ -1,4 +1,4 @@
-module zeptomail
+module github.com/OutOfBoundCats/zeptomail
 
 go 1.21
 

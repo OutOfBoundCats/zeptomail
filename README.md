@@ -3,6 +3,10 @@
 
 This golang sdk provides way to send email using zoho [zepto mailing service](https://www.zoho.com/zeptomail/)
 
+## Installation
+```
+go get github.com/OutOfBoundCats/zeptomail
+```
 
 ## Features
 
