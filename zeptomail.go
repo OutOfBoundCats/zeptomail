@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/OutOfBoundCats/zeptomail/utils"
+	"github.com/OutOfBoundCats/zeptomail/zmodels"
 	"github.com/go-playground/validator/v10"
 	"io"
 	"net/http"
-	"zeptomail/utils"
-	"zeptomail/zmodels"
 )
 
 const zeptoBaseUrl = "https://api.zeptomail.in/v1.1"

@@ -20,7 +20,7 @@ go get github.com/OutOfBoundCats/zeptomail
 ### Send Template Email
 ```go
 import (
-    "zeptomail"
+    "github.com/OutOfBoundCats/zeptomail"
 )
 
 
